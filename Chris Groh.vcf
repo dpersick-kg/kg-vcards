@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Chris Groh\, MBA
+N:Groh;Chris;;;MBA
+TITLE:Senior Project Manager
+ORG:Kutchins \& Groh\, LLC
+TEL;TYPE=WORK,VOICE:(504) 799-4090
+TEL;TYPE=CELL,VOICE:(504) 427-0221
+EMAIL;TYPE=INTERNET:chris@kutchins-groh.com
+URL:https://www.kutchins-groh.com
+ADR;TYPE=WORK:;;400 Poydras St., Suite 1380;New Orleans;LA;70130;USA
+END:VCARD

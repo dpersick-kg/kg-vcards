@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:John "Jay" Scalise
+N:Scalise;John;;;
+NICKNAME:Jay
+TITLE:Project Manager
+ORG:Kutchins \& Groh\, LLC
+TEL;TYPE=CELL,VOICE:(813) 892-2930
+EMAIL;TYPE=INTERNET:jay@kutchins-groh.com
+URL:https://www.kutchins-groh.com
+ADR;TYPE=WORK:;;921 Terra Mar Dr.;Tampa;FL;33613;USA
+END:VCARD

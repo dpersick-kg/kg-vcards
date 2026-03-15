@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:George Groh\, AIA
+N:Groh;George;;;AIA
+TITLE:Managing Principal
+ORG:Kutchins \& Groh\, LLC
+TEL;TYPE=WORK,VOICE:(504) 799-4092
+TEL;TYPE=CELL,VOICE:(504) 913-9875
+EMAIL;TYPE=INTERNET:george@kutchins-groh.com
+URL:https://www.kutchins-groh.com
+ADR;TYPE=WORK:;;400 Poydras St., Suite 1380;New Orleans;LA;70130;USA
+END:VCARD
