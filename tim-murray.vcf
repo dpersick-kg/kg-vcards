@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Tim Murray
+N:Murray;Tim;;;
+TITLE:Project Manager
+ORG:Kutchins \& Groh\, LLC
+TEL;TYPE=CELL,VOICE:(504) 908-7332
+EMAIL;TYPE=INTERNET:tim@kutchins-groh.com
+URL:https://www.kutchins-groh.com
+ADR;TYPE=WORK:;;400 Poydras St., Suite 1380;New Orleans;LA;70130;USA
+END:VCARD

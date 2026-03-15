@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Brad Kutchins\, PE
+N:Kutchins;Brad;;;PE
+TITLE:Managing Principal
+ORG:Kutchins \& Groh\, LLC
+TEL;TYPE=WORK,VOICE:(682) 518-0681
+TEL;TYPE=CELL,VOICE:(817) 296-5940
+EMAIL;TYPE=INTERNET:brad@kutchins-groh.com
+URL:https://www.kutchins-groh.com
+ADR;TYPE=WORK:;;7 Trailside Court;Mansfield;TX;76063;USA
+END:VCARD
